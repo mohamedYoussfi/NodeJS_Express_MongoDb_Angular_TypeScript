@@ -22,7 +22,7 @@
     "@types/mongoose-paginate": "^5.0.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3"
   }
 }
